@@ -1,4 +1,4 @@
-## Python Programming for the Absolute Beginner, 3rd Edition by Michael Dawson. Additional materials
+### Python Programming for the Absolute Beginner, 3rd Edition by Michael Dawson. Additional materials
 
 Dear guests, since official [web-site](http://courseptr.com/downloads) with materails and code examples from that amazing book is no longer available, I would like to share with you all 12 chapters and I wish you pleasant learning.
 
